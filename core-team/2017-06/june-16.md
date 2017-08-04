@@ -28,7 +28,7 @@ Goal: On-going checks and updates to internal taxa list - CP
 A Number of possible tools discussed. CPET, IQI, AWIC were among possible contenders
 
 Goal: Check status of fish tool - CB    
-Goal: Check with WD on UKTAG/EA involvement - CB 
+Goal: Check with WD on UKTAG/EA involvement - CB. Asked for this to be raised at FW and Marine TTs by SEPA reps.
 Goal: Discuss which tool to be basis of pilot project - RB IN CP
 
 #### Sharing code / github
