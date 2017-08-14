@@ -1,4 +1,4 @@
-# Meeting: Core Team 2017-08-18
+# Meeting: Core Team 2017-09-15
 
 ### Draft Agenda
 
