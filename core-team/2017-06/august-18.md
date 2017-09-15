@@ -16,5 +16,8 @@
 
 CB TF RB IN CP
 
+### Minutes
 
+#### SEPA progessing with CPET metric package
 
+....
