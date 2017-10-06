@@ -6,3 +6,4 @@
 - NRW progessing with metric packages
 - Sharing code on github
 - Demo of git workflow
+- NRW status re Git/GitHub/RStudio workflow
