@@ -35,7 +35,7 @@ Changes expected to DARLEQ/phytobenthos metrics for TDI5 and DNA work. Will conf
 MoU - Discussed options. Best place is to progress via UKTAG agreements. Will need something in place if sharing development costs in future.   
   
 Goal: MoU - send draft proposal to SEPA - IN  
-Goal: Raise with FFTT/UKTAG? CB
+Goal: Raise with FFTT/UKTAG? CB. Positive response from NIEA. No response from EA as yet.
 
 #### Sharing code on aquaMetrics github - demo?  
 Testing and Code coverage - demoed  
