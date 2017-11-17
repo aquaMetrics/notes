@@ -8,3 +8,6 @@
 - Demo of git workflow
 - NRW status re Git/GitHub/RStudio workflow
 - Demo point
+- Demo point
+
+[linked phrase](http://example.com)
