@@ -7,3 +7,4 @@
 - Sharing code on github
 - Demo of git workflow
 - NRW status re Git/GitHub/RStudio workflow
+- Demo point
