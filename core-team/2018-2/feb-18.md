@@ -23,9 +23,8 @@ TF RB IN CP
 - Work started on INNS / NBN atlas download  
 Goal - IQI tool - R code available?  - check and discuss with NRW - CB  
 Goal - Trends in groundwater - stats in R script - contact IN with SEPA groundwater contact - TF  
-Goal - Discussion opportunities e.g. Fish Marine/Fish Freshwater/Groundwater - CB anyone in mind to invite? CB/TF   
-Goal - IQI tool - possible target for R code - check SEPA progress and discuss with NRW - CB/TF  
-Goal - Check R package compatibility with TERR / spotfire  - TF  
+Goal - Discussion opportunities e.g. Fish Marine/Fish Freshwater/Groundwater - CB anyone in mind to invite? CB/TF    
+Goal - Check R package compatibility with TERR / spotfire  - TF   
 
 ### RW progress with metrics 
 
