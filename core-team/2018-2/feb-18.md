@@ -1,4 +1,4 @@
-# Meeting: Core Team 2017-11-17
+# Meeting: Core Team 2018-02-16
 
 ### Agenda
 
@@ -7,4 +7,7 @@
 - Sharing code on github
 
 ### Invitees CB TF RB IN CP
+
+## Attending
+
 
